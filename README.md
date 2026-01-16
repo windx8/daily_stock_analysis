@@ -44,7 +44,7 @@
 
 点击右上角 `Fork` 按钮
 
-#### 2. 配置 Secrets
+#### 2. 配置 Secrets（单独添加一个Secret和其值）
 
 进入你 Fork 的仓库 → `Settings` → `Secrets and variables` → `Actions` → `New repository secret`
 
